@@ -8,7 +8,7 @@ import { registerDeploy } from './commands/deploy';
 import { registerOpen } from './commands/open';
 
 // Kept in sync with package.json at publish time.
-const VERSION = '0.3.0';
+const VERSION = '0.3.2';
 
 const program = new Command();
 
